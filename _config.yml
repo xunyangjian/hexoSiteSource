@@ -56,8 +56,8 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我要成为魔法师!"
-sidebar-avatar: img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "傻逼一样的坚持，终会获得牛B的结果。"
+sidebar-avatar: img/open_source.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # Featured Tags
@@ -67,10 +67,11 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 # Friends
 friends: [
+    {
+        title: "株式会社ロンテック",
+        href: "http://www.rontech.co.jp/"
+    }
     # {
-    #     title: "Kaijun's Blog",
-    #     href: "http://blog.kaijun.rocks"
-    # },{
     #     title: "Hux Blog",
     #     href: "http://huangxuan.me"
     # },{
