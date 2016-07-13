@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: xunyangjian's Blog
+title: Xunyangjian's Blog
 subtitle: To Be A Happy Developer!
 author: ShiJian Yang
 language:
@@ -48,9 +48,9 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+ba_track_id: 4f97fb229bcb58201b2c91ee25278841
 # Google Analytics
-# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-80701935-1'            # Format: UA-xxxxxx-xx
 # ga_domain: huangxuan.me
 
 
